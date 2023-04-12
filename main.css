@@ -1,12 +1,21 @@
+body{
+    font-family: "Trirong", serif;
+}
+
 #product-overview {
     background: forestgreen;
   }
 
-h1{
+#product-overview h1{
     color: white;
     font-family: "Sofia", sans-serif;;
 }
 
 .section-title{
     color: brown;
+    font-family: inherit;
+}
+
+h1{
+    font-family: sans-serif;;
 }
